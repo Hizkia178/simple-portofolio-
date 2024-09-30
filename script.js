@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
 })
 
 document.addEventListener('DOMContentLoaded', function () {
-    const texts = ["Hello, I'm John Doe", "Welcome to my portfolio!", "Feel free to explore."];
+    const texts = ["Hello, I'm Samuel Hutagalung", "Welcome to my portfolio!", "Feel free to explore."];
     let index = 0;
     let charIndex = 0;
     let isDeleting = false;
