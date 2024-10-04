@@ -566,6 +566,7 @@ footer .cols .links-col a:hover {
 
 .contact-form .submit-btn {
     display: block;
+    text-decoration:none;
     width: 100%;
     padding: 12px;
     background-color: #f39c12;
